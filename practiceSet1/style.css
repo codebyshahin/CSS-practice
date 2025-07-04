@@ -1,0 +1,26 @@
+* {
+    font-family: "Times New Roman";
+}
+
+
+body{
+    background-color: pink
+}
+h1{
+    text-align: center;
+    text-transform:uppercase;
+}
+#outer {
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+div{
+    height: 100px;
+    width: 400px;
+    background-color: blue;
+}
+
+
+  
